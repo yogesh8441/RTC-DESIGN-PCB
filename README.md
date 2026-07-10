@@ -1,4 +1,3 @@
-# RTC-DESIGN-PCB
 # RTC Design PCB
 
 ## 📌 Overview
